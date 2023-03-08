@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: |cffffffff[Enhanced]|cffffcc00 Bag Filtering
+## Author: luskanek
+## Notes: Adds filter to the player's bags that can be used to specify what items to store.
+## Version: 1.0
+## SavedVariablesPerCharacter: Enhanced_BagFilters
+
+main.lua
